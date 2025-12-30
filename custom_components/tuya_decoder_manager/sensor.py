@@ -124,7 +124,7 @@ class TuyaVoltageSensor(TuyaBaseSensor):
         super().__init__(source_entity, config_entry)
         self._attr_translation_key = "voltage"
         self._attr_native_unit_of_measurement = UnitOfElectricPotential.VOLT
-        self._attr_icon = "mdi:flash"
+        self._attr_icon = "mdi:lightning-bolt"
         
     @property
     def name(self) -> str | None:
