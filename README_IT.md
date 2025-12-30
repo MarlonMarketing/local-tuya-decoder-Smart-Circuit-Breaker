@@ -15,7 +15,7 @@ Local Tuya Decoder per Smart Circuit Breaker è un componente personalizzato per
 
 ### Metodo 1: Installazione manuale
 
-1. Scarica l'ultima versione del componente dalla sezione [Releases](https://github.com/ilcapitano1980/local-tuya-decoder-Smart-Circuit-Breaker/releases)
+1. Scarica l'ultima versione del componente dalla sezione [Releases](https://github.com/MarlonMarketing/local-tuya-decoder-Smart-Circuit-Breaker/releases)
 2. Estrai il contenuto dell'archivio nella directory `custom_components` di Home Assistant:
    ```
    /config/custom_components/tuya_decoder_manager/
@@ -28,7 +28,7 @@ Local Tuya Decoder per Smart Circuit Breaker è un componente personalizzato per
 2. Vai a "Integrazioni"
 3. Clicca sul pulsante con i tre puntini nell'angolo in alto a destra
 4. Seleziona "Personalizza repository"
-5. Aggiungi il repository: `https://github.com/ilcapitano1980/local-tuya-decoder-Smart-Circuit-Breaker`
+5. Aggiungi il repository: `https://github.com/MarlonMarketing/local-tuya-decoder-Smart-Circuit-Breaker`
 6. Cerca "Local Tuya Decoder per Smart Circuit Breaker" e installa l'integrazione
 7. Riavvia Home Assistant
 

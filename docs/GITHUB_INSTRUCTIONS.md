@@ -31,7 +31,7 @@
    ```
 6. Aggiungi il repository remoto (usa l'URL del tuo repository GitHub):
    ```
-    git remote add origin https://github.com/ilcapitano1980/local-tuya-decoder-Smart-Circuit-Breaker.git
+     git remote add origin https://github.com/MarlonMarketing/local-tuya-decoder-Smart-Circuit-Breaker.git
    ```
 7. Carica i file su GitHub:
    ```
