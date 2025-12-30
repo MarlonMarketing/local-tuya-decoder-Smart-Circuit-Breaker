@@ -1,0 +1,10 @@
+{
+  "domain": "tuya_decoder_manager",
+  "name": "Tuya Decoder Manager",
+  "version": "1.0.2",
+  "iot_class": "local_polling",
+  "dependencies": [],
+  "codeowners": ["@ilcapitano1980"],
+  "requirements": [],
+  "config_flow": true
+}

@@ -1,0 +1,40 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configura Tuya Decoder Manager",
+        "data": {
+          "name": "Nome",
+          "source_sensor": "Scegli sensore o entità",
+          "voltage_correction": "Valore correzione tensione (V)",
+          "current_correction": "Valore correzione corrente (A)",
+          "power_correction": "Correzione potenza (W)"
+        }
+      }
+    },
+    "error": {
+      "entity_not_found": "Sensore non trovato"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configura Tuya Decoder Manager",
+        "data": {
+          "name": "Nome",
+          "source_sensor": "Scegli sensore o entità",
+          "voltage_correction": "Valore correzione tensione (V)",
+          "current_correction": "Valore correzione corrente (A)",
+          "power_correction": "Correzione potenza (W)"
+        }
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "voltage": "Tensione",
+      "current": "Corrente",
+      "power": "Potenza"
+    }
+  }
+}

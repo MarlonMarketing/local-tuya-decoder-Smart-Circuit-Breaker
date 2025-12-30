@@ -1,0 +1,40 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Tuya Decoder Manager",
+        "data": {
+          "name": "Name",
+          "source_sensor": "Choose sensor or entity",
+          "voltage_correction": "Voltage correction value (V)",
+          "current_correction": "Current correction value (A)",
+          "power_correction": "Power correction (W)"
+        }
+      }
+    },
+    "error": {
+      "entity_not_found": "Sensor not found"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configure Tuya Decoder Manager",
+        "data": {
+          "name": "Name",
+          "source_sensor": "Choose sensor or entity",
+          "voltage_correction": "Voltage correction value (V)",
+          "current_correction": "Current correction value (A)",
+          "power_correction": "Power correction (W)"
+        }
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "voltage": "Voltage",
+      "current": "Current",
+      "power": "Power"
+    }
+  }
+}
